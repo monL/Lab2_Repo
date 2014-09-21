@@ -45,5 +45,9 @@ public class StockPrice {
 	  public void CreateAConflict(){
 		  //this line should create merge conflict
 	  }
+	  
+	  public void doMoreStuff(){
+		  //conflict conflicts maybe
+	  }
 
 }
