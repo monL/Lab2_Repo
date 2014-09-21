@@ -43,5 +43,8 @@ public class StockPrice {
 	  }
 	  
 	//undoooooo
+	public void moreChanges(){
+		//just go crazy
+	}
 
 }
