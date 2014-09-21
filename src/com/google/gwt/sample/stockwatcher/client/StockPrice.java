@@ -41,5 +41,9 @@ public class StockPrice {
 	  public void setChange(double change) {
 	    this.change = change;
 	  }
+	  
+	  public void CreateAConflict(){
+		  //this line should create merge conflict
+	  }
 
 }
