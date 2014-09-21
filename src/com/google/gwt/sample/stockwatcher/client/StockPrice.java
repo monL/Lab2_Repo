@@ -42,10 +42,6 @@ public class StockPrice {
 	    this.change = change;
 	  }
 	  
-	  public void CreateAConflict(){
-		  //this line should create merge conflict
-	  }
-	  
 	  public void doMoreStuff(){
 		  //conflict conflicts maybe
 	  }
